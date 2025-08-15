@@ -1,0 +1,6 @@
+{
+  "name": "Theledate",
+  "description": "Calculate the Thelemic date for any day, time, and location. The Thelemic date is based on the astrological positions of the Sun and Moon.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
