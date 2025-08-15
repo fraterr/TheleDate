@@ -1,3 +1,5 @@
+<img width="2880" height="1676" alt="immagine" src="https://github.com/user-attachments/assets/d1522ccf-019c-4e71-8f52-8911e9da13ca" />
+
 # Theledate - Local Installation Guide
 
 This document provides instructions on how to set up and run the Theledate application on your local machine for testing and development.
